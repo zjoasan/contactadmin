@@ -1,0 +1,12 @@
+Ämne: {{ SUBJECT }}
+
+Hej {{ ADM_USERNAME }},
+
+En person med namnet "{{ USERNAME }}" med e-postadressen "{{ USER_EMAIL }}" och IP-adressen "{{ USER_IP }}" den "{{ DATE }}" skickade följande meddelande:
+
+{{ MEDDELANDE }}
+
+med hjälp av "Kontakta oss" på "{{ SITENAME }}".
+
+
+{{ EMAIL_SIG }}

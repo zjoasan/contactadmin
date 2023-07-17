@@ -1,0 +1,6 @@
+Ämne: {{ SUBJECT }}
+
+{{ MESSAGE }}
+
+{{ EMAIL_SIG }}
+
